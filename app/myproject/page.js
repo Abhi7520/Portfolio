@@ -20,7 +20,7 @@ const myproject = () => {
           A personal portfolio built using React and Tailwind CSS with smooth animations and a responsive layout.
         </p>
         <a
-          href="https://github.com/Abhi7520/Portfolio.git" target='_blank'
+          href="https://github.com/Abhi7520/Gymwebsite.git" target='_blank'
           className="text-indigo-400 hover:underline font-medium"
         >
           View Project →
@@ -41,7 +41,7 @@ const myproject = () => {
           A modern e-commerce frontend built with Next.js and Tailwind, featuring product cards and filters.
         </p>
         <a
-          href="#"
+          href="https://github.com/Abhi7520/Ecommerce-website.git" target='_blank'
           className="text-indigo-400 hover:underline font-medium"
         >
           View Project →
@@ -63,6 +63,68 @@ const myproject = () => {
         </p>
         <a
           href="#"
+          className="text-indigo-400 hover:underline font-medium"
+        >
+          View Project →
+        </a>
+      </div>
+    </div>
+
+    {/* ✅ Project 4 */}
+    <div className="bg-gray-800 rounded-2xl overflow-hidden shadow-md hover:scale-105 transition">
+      <img
+        src="/weather.png"
+        alt="Project 3"
+        className="h-65 w-full object-cover"
+      />
+      <div className="p-6">
+        <h3 className="text-xl font-semibold mb-2">Gallery</h3>
+        <p className="text-gray-400 mb-4">
+          A live weather dashboard fetching real-time data from an API, built with React and OpenWeather.
+        </p>
+        <a
+          href="https://github.com/Abhi7520/Gallery-website.git" target='_blank'
+          className="text-indigo-400 hover:underline font-medium"
+        >
+          View Project →
+        </a>
+      </div>
+    </div>
+    {/* ✅ Project 5 */}
+    <div className="bg-gray-800 rounded-2xl overflow-hidden shadow-md hover:scale-105 transition">
+      <img
+        src="/weather.png"
+        alt="Project 3"
+        className="h-65 w-full object-cover"
+      />
+      <div className="p-6">
+        <h3 className="text-xl font-semibold mb-2">Portfolio</h3>
+        <p className="text-gray-400 mb-4">
+          A live weather dashboard fetching real-time data from an API, built with React and OpenWeather.
+        </p>
+        <a
+          href="https://github.com/Abhi7520/Portfolio.git" target='_blank'
+          className="text-indigo-400 hover:underline font-medium"
+        >
+          View Project →
+        </a>
+      </div>
+    </div>
+
+    {/* ✅ Project 6 */}
+    <div className="bg-gray-800 rounded-2xl overflow-hidden shadow-md hover:scale-105 transition">
+      <img
+        src="/weather.png"
+        alt="Project 3"
+        className="h-65 w-full object-cover"
+      />
+      <div className="p-6">
+        <h3 className="text-xl font-semibold mb-2">Gallery</h3>
+        <p className="text-gray-400 mb-4">
+          A live weather dashboard fetching real-time data from an API, built with React and OpenWeather.
+        </p>
+        <a
+          href="https://github.com/Abhi7520/Portfolio.git" target='_blank'
           className="text-indigo-400 hover:underline font-medium"
         >
           View Project →
