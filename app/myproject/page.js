@@ -20,7 +20,7 @@ const myproject = () => {
           A personal portfolio built using React and Tailwind CSS with smooth animations and a responsive layout.
         </p>
         <a
-          href="#"
+          href="https://github.com/Abhi7520/Portfolio.git" target='_blank'
           className="text-indigo-400 hover:underline font-medium"
         >
           View Project →
