@@ -73,7 +73,7 @@ const myproject = () => {
     {/* ✅ Project 4 */}
     <div className="bg-gray-800 rounded-2xl overflow-hidden shadow-md hover:scale-105 transition">
       <img
-        src="/weather.png"
+        src="/galery.png"
         alt="Project 3"
         className="h-65 w-full object-cover"
       />
@@ -93,12 +93,12 @@ const myproject = () => {
     {/* ✅ Project 5 */}
     <div className="bg-gray-800 rounded-2xl overflow-hidden shadow-md hover:scale-105 transition">
       <img
-        src="/weather.png"
+        src="/portfolio.jpg"
         alt="Project 3"
         className="h-65 w-full object-cover"
       />
       <div className="p-6">
-        <h3 className="text-xl font-semibold mb-2">Portfolio</h3>
+        <h3 className="text-xl font-semibold mb-2">Portfolio</h3>R̥
         <p className="text-gray-400 mb-4">
           A live weather dashboard fetching real-time data from an API, built with React and OpenWeather.
         </p>
@@ -119,7 +119,7 @@ const myproject = () => {
         className="h-65 w-full object-cover"
       />
       <div className="p-6">
-        <h3 className="text-xl font-semibold mb-2">Gallery</h3>
+        <h3 className="text-xl font-semibold mb-2">Gallery-2</h3>
         <p className="text-gray-400 mb-4">
           A live weather dashboard fetching real-time data from an API, built with React and OpenWeather.
         </p>
